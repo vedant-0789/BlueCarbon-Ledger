@@ -1,4 +1,3 @@
-# BlueCarbon-Ledger
 # 🌊 BlueCarbon Ledger  
 
 A **decentralized, transparent, and verifiable platform** for monitoring & verifying **blue carbon ecosystems** using **Blockchain + AI/ML**.  
@@ -38,7 +37,9 @@ A **blockchain-powered MRV system** that:
 ## 🛠️ Technology Stack  
 - **Frontend (FE):** React Native  
 - **Blockchain:** Ethereum + Layer 2 (Polygon, Arbitrum)  
-- **API Layer:** FastAPI (Python) for AI/ML, Node.js for blockchain APIs  
+- **API Layer:**  
+  - FastAPI (Python) → AI/ML services  
+  - Node.js → Blockchain APIs  
 - **Database:** MySQL  
 - **Machine Learning:** TensorFlow / PyTorch  
 - **IoT Integration:** AWS IoT Core / Azure IoT Hub  
