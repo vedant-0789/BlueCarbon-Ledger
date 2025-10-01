@@ -1,7 +1,7 @@
 # BlueCarbon-Ledger
 # 🌊 BlueCarbon Ledger  
 
-A **decentralized, transparent, and verifiable platform** for monitoring & verifying **blue carbon ecosystems** using **Blockchain + AI/ML + IoT**.  
+A **decentralized, transparent, and verifiable platform** for monitoring & verifying **blue carbon ecosystems** using **Blockchain + AI/ML**.  
 This project was developed by **Team BlueChain** as part of our sustainability & climate-tech initiative.  
 
 ---
